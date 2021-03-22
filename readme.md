@@ -1,4 +1,5 @@
 # <img src="https://github.com/esmBot/esmBot/raw/master/esmbot.png" width="128"> esmBot
+Modded by pazk1!
 [![esmBot Support](https://discordapp.com/api/guilds/592399417676529688/embed.png)](https://discord.gg/vfFM7YT) ![GitHub license](https://img.shields.io/github/license/esmBot/esmBot.svg)
 
 
